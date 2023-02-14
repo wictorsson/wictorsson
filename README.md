@@ -1,5 +1,6 @@
 # Welcome 👋
-I develop audio and music apps and currently I am studying web development in Berlin. 
+
+I develop audio/music apps and currently I am studying web development in Berlin.
 
 | Frameworks/Libraries I use |
 | -------------------------- |
