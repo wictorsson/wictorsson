@@ -1,10 +1,13 @@
 # Welcome 👋
 
-I develop audio/music apps and currently I am studying web development in Berlin.
+Software and Web developer based in Berlin with a focus on audio and web apps. 
 
-| Frameworks/Libraries I use |
-| -------------------------- |
-| Juce                       |
-| Qt/Qml                     |
+| ---------------------------------------|
+| HTML CSS Javascript React Next MongoDB |
+| C++ Juce Qt/Qml                        |
+| ---------------------------------------|
+                                        
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wictorsson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredrik-wictorsson-276ab2180/)](https://www.linkedin.com/in/fredrik-wictorsson-276ab2180/)
