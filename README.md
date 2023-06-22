@@ -2,8 +2,12 @@
 
 Software and Web developer based in Berlin with a focus on audio and web apps. 
 
+
 | ---------------------------------------|
 | HTML CSS Javascript React Next MongoDB |
+| ---------------------------------------|
+
+| ---------------------------------------|
 | C++ Juce Qt/Qml                        |
 | ---------------------------------------|
                                         
