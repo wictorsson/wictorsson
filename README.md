@@ -1,15 +1,12 @@
 # Welcome 👋
 
-Software and Web developer based in Berlin with a focus on audio and web apps. 
+I'm a software and web developer with a focus on audio and web apps. 
 
+| HTML / CSS / Javascript / React / Next / MongoDB |
+| -------------------------------------------------|
 
-
-| HTML CSS Javascript React Next MongoDB |
-
-
-| ---------------------------------------|
-| C++ Juce Qt/Qml                        |
-| ---------------------------------------|
+| C++ / Juce / Qt    |
+| -------------------|
                                         
 
 
