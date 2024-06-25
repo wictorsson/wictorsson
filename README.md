@@ -1,12 +1,12 @@
 # Welcome 👋
 
-I'm a software and web developer with a focus on audio and web apps. 
+I'm a software and web developer with a background in audio and web apps. 
 
-| HTML / CSS / Javascript / React / Next / MongoDB |
-| -------------------------------------------------|
+| HTML / CSS / Javascript / React / Next |
+| ---------------------------------------|
 
-| C++ / Juce / Qt    |
-| -------------------|
+| C++ / iPlug2 / Juce / Qt|
+| ------------------------|
                                         
 
 
